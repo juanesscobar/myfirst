@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 juanesscobar <escobarbvega.juanandres21@gmail.com> 1749249097 -0300	commit (initial): este es mi primera actualizacion git
+b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749504630 -0300	commit: Nuevo commit agregado
+28732caaaeeb48da5710e77d33f8152a3a05185c 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749505344 -0300	checkout: moving from master to 28732ca
+28732caaaeeb48da5710e77d33f8152a3a05185c b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 juanesscobar <escobarbvega.juanandres21@gmail.com> 1749505406 -0300	checkout: moving from 28732caaaeeb48da5710e77d33f8152a3a05185c to b55e4e9
+b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 juanesscobar <escobarbvega.juanandres21@gmail.com> 1749506421 -0300	checkout: moving from b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 to nueva-rama
+b55e4e92bc7b8cfb12d378a4cda19d192be6ca78 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749506865 -0300	checkout: moving from nueva-rama to master
+28732caaaeeb48da5710e77d33f8152a3a05185c 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749507299 -0300	checkout: moving from master to dev
+28732caaaeeb48da5710e77d33f8152a3a05185c 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749508136 -0300	checkout: moving from dev to master
+28732caaaeeb48da5710e77d33f8152a3a05185c 0000000000000000000000000000000000000000 juanesscobar <escobarbvega.juanandres21@gmail.com> 1749508442 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 28732caaaeeb48da5710e77d33f8152a3a05185c juanesscobar <escobarbvega.juanandres21@gmail.com> 1749508442 -0300	Branch: renamed refs/heads/master to refs/heads/main

@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = escobarbvega.juanandres21@gmail.com
+[remote "origin"]
+	url = https://github.com/juanesscobar/myfirst
+	fetch = +refs/heads/*:refs/remotes/origin/*
